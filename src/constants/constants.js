@@ -1,0 +1,50 @@
+export const projects = [
+  {
+    title: 'The Riddletons',
+    description: "An awesome & entertaining digital house for creative individuals. Solve the riddle - get the prize. Collect reviews on your NFT - get a prize, say what?!  We’re The Riddletons, an NFT entertainment brand.",
+      image: '/images/1.png',
+      tags: ['SandBox.Game', 'Riddle', 'NFTproject', 'Thrilling'],
+    source: 'https://www.theriddletons.xyz/',
+    visit: 'https://twitter.com/theriddletons',
+    id: 0,
+  },
+  {
+    title: 'Aptos Space Ape',
+    description:"Functioning as a backbone and as the main concept driving our collection forward - Aptos Space Apes Utility is a technology that will change the game! Aptos Space Apes Utility could be explained as a token that changes its purpose monthly based on holders' needs and requirements. Want to have access to free global travel, obtain free fashion pieces from reputable brands, or have a passive income purely from being a citizen of the Mothership? Well, it is up to you to decide, and we will deliver. Yes, YOU will be the one choosing what monthly benefit you want from simply holding our token. This ever-changing utility and its endless opportunities will strengthen the project's longevity through its ability to adapt and withstand new industry standards for years to come.",
+    image: '/images/2.png',
+    tags: ['Aptos Project', 'Ape'],
+    source: 'https://thunderous-entremet-24a8cc.netlify.app/',
+    visit: 'https://twitter.com/Aptos_SpaceApe',
+    id: 1,
+  },
+  {
+    title: 'De9 - Rise of Ammil',
+    description: "DE-9 is extremely unique by the project in general, but still in the scarcity of the character there still lies the stages of uniqueness amoung them, so you know who got more power among yourself.",
+      image: '/images/3.jpg',
+      tags: ['Metaverse', 'Play to Earn', 'Game'],
+    source: 'https://de9.club/',
+    visit: 'https://twitter.com/DE9_CLUB',
+    id: 2,
+  },
+  {
+    title: 'Mello Mallows Club',
+    description: "“Sprinkle” token claiming for NFT holders. The more NFTs they hold, the more tokens can be claimed. NFT breeding using “Sprinkle” token",
+    image: '/images/4.jpg',
+    tags: ['Breeding', 'NFTproject', 'Aptos'],
+    source: 'https://mellodev.netlify.app/',
+    visit: 'https://twitter.com/MelloMallowsC',
+    id: 3,
+  },
+];
+
+export const TimeLineData = [
+  { year: 15, text: 'Chat Enagers', },
+  { year: 10, text: 'Shillers', },
+  { year: 5, text: 'Moderators', },
+  { year: 5, text: 'Collab Managers', },
+  { year: 2, text: 'Alpha Caller', },
+  { year: 2, text: 'Developer', },
+  { year: 1, text: 'Discord Manager', },
+  { year: 1, text: 'Community Manager', },
+  { year: 3, text: 'Artist', },
+];
